@@ -3,7 +3,7 @@ import blur from '../../assets/cruiseBlur.png'
 
 const Banner = () => {
     return (
-        <div className="diff aspect-[16/9]">
+        <div className="diff aspect-[16/9] rounded-xl">
             <div className="diff-item-1">
                 <img alt="daisy" src={cruise} />
             </div>

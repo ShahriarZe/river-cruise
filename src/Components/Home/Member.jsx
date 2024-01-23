@@ -8,13 +8,13 @@ const Member = () => {
                 <Event></Event>
             </div>
 
-            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-20'>
-                <img src={member} alt="" />
-                <img src={member} alt="" />
-                <img src={member} alt="" />
-                <img src={member} alt="" />
-                <img src={member} alt="" />
-                <img src={member} alt="" />
+            <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12'>
+                <img className='rounded-xl' src={member} alt="" />
+                <img className='rounded-xl' src={member} alt="" />
+                <img className='rounded-xl' src={member} alt="" />
+                <img className='rounded-xl' src={member} alt="" />
+                <img className='rounded-xl' src={member} alt="" />
+                <img className='rounded-xl' src={member} alt="" />
             </div>
         </div>
     );
