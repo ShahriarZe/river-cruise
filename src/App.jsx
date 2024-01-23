@@ -1,4 +1,4 @@
-import Home from "./Components/Home/Home"
+import { Outlet } from "react-router-dom"
 import NavBar from "./Components/NavBar/NavBar"
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <NavBar></NavBar>
-      <Home></Home>
+      <Outlet></Outlet>
     </>
   )
 }
