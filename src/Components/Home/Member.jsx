@@ -4,6 +4,8 @@ import Event from './Event';
 const Member = () => {
     return (
         <div className='lg:w-1/2'> 
+
+            {/* Upcoming Events */}
             <div>
                 <Event></Event>
             </div>
