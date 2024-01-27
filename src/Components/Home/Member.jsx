@@ -15,8 +15,8 @@ const Member = () => {
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12'>
                 <img className='rounded-xl' src={member} alt="member1" data-aos="zoom-in" data-aos-duration="1500"/>
                 <img className='rounded-xl' src={member} alt="member2" data-aos="zoom-in" data-aos-duration="1500"/>
-                <img className='rounded-xl' src={member} alt="" data-aos="zoom-in" data-aos-duration="1500"/>
-                <img className='rounded-xl' src={member} alt="" data-aos="zoom-out" data-aos-duration="1500"/>
+                <img className='rounded-xl' src={member} alt="member3" data-aos="zoom-in" data-aos-duration="1500"/>
+                <img className='rounded-xl' src={member} alt="member4" data-aos="zoom-out" data-aos-duration="1500"/>
                 <img className='rounded-xl' src={member} alt="" data-aos="zoom-out" data-aos-duration="1500"/>
                 <img className='rounded-xl' src={member} alt="" data-aos="zoom-out" data-aos-duration="1500"/>
             </div>
