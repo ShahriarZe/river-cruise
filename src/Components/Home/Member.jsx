@@ -17,8 +17,8 @@ const Member = () => {
                 <img className='rounded-xl' src={member} alt="member2" data-aos="zoom-in" data-aos-duration="1500"/>
                 <img className='rounded-xl' src={member} alt="member3" data-aos="zoom-in" data-aos-duration="1500"/>
                 <img className='rounded-xl' src={member} alt="member4" data-aos="zoom-out" data-aos-duration="1500"/>
-                <img className='rounded-xl' src={member} alt="" data-aos="zoom-out" data-aos-duration="1500"/>
-                <img className='rounded-xl' src={member} alt="" data-aos="zoom-out" data-aos-duration="1500"/>
+                <img className='rounded-xl' src={member} alt="member5" data-aos="zoom-out" data-aos-duration="1500"/>
+                <img className='rounded-xl' src={member} alt="member6" data-aos="zoom-out" data-aos-duration="1500"/>
             </div>
         </div>
     );
