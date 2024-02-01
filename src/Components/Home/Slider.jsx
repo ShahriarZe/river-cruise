@@ -23,7 +23,7 @@ const Slider = () => {
                 </div>
                 
                 <div className="mr-20">
-                    <img className="w-[200px]  rounded shadow" src={one} alt="Four" />
+                    <img className="w-[200px]  rounded shadow" src={one} alt="Marue-Four" />
                     
                 </div>
                 <div className="mr-20">
