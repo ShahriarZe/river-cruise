@@ -14,7 +14,7 @@ const Slider = () => {
                     
                 </div>
                 <div className="mr-20">
-                    <img className="w-[200px] h-[132px] rounded shadow" src={two} alt="Two" />
+                    <img className="w-[200px] h-[132px] rounded shadow" src={two} alt="Marue-Two" />
                     
                 </div>
                 <div className="mr-20">
