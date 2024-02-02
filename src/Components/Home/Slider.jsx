@@ -10,11 +10,11 @@ const Slider = () => {
         <div className='mt-20' data-aos="zoom-in" data-aos-duration="1500">
             <Marquee speed={100} pauseOnClick >
                 <div className="mr-20" >
-                    <img className="w-[200px]  rounded shadow" src={one} alt="Marue-One" />
+                    <img className="w-[200px]  rounded shadow" src={one} alt="Marquue-One" />
                     
                 </div>
                 <div className="mr-20">
-                    <img className="w-[200px] h-[132px] rounded shadow" src={two} alt="Marue-Two" />
+                    <img className="w-[200px] h-[132px] rounded shadow" src={two} alt="Marquue-Two" />
                     
                 </div>
                 <div className="mr-20">
