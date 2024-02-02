@@ -18,16 +18,16 @@ const Slider = () => {
                     
                 </div>
                 <div className="mr-20">
-                    <img className="w-[200px]  rounded shadow" src={three} alt="Marue-Three" />
+                    <img className="w-[200px]  rounded shadow" src={three} alt="Marquue-Three" />
                     
                 </div>
                 
                 <div className="mr-20">
-                    <img className="w-[200px]  rounded shadow" src={one} alt="Marue-Four" />
+                    <img className="w-[200px]  rounded shadow" src={one} alt="Marquue-Four" />
                     
                 </div>
                 <div className="mr-20">
-                    <img className="w-[200px]  rounded shadow" src={three} alt="Marue-Five" />
+                    <img className="w-[200px]  rounded shadow" src={three} alt="Marquue-Five" />
                     
                 </div>
             </Marquee>
