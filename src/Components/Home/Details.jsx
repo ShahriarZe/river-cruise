@@ -9,7 +9,7 @@ const Details = () => {
                 <div className="hero-content text-center text-neutral-content">
                     <div className="max-w-md">
                         <h1 className="mb-5 text-5xl font-bold">Hello There</h1>
-                        <p className="mb-5 text-xl">Explore Cutting-edge innovations, network with tech enthusiasts, and witness groundbreaking projects at our Tech Fair Event. Unleash the future!</p>
+                        <p className="mb-5 text-xl">Explore Cutting-Edge Innovations, network with tech enthusiasts, and witness groundbreaking projects at our Tech Fair Event. Unleash the future!</p>
                        <Link to='/'><button className="btn btn-primary text-xl">Go Back</button></Link>
                     </div>
                 </div>
